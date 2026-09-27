@@ -1,0 +1,29 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+**/build/
+
+# Android
+/captures
+.externalNativeBuild
+.cxx
+
+# Local SDK path
+local.properties
+
+# Secrets
+.env
+secrets.properties
+
+# Signing keys
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+
+# Firebase
+google-services.json
